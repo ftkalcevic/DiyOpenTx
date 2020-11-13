@@ -1,0 +1,3 @@
+[submodule "opentx"]
+	path = opentx
+	url = https://github.com/ftkalcevic/opentx.git
